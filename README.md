@@ -13,4 +13,4 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 
 ## 📊 Stats GitHub
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=devMarie&show_icons=true&theme=radical)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=CoolDev&show_icons=true&theme=radical)
