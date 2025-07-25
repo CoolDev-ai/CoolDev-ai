@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi ! 👋 I'm CoolDev
 
-<!--
-**CoolDev-ai/CoolDev-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Meteorologist
+💻 Passionated By Py
+🌱 Learning LUA
 
-Here are some ideas to get you started:
+## 🚀 My Projects
+- [Meteo App](https://github.com/devMarie/meteo-app)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠️ Skills
+![Python](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+
+## 📊 Stats GitHub
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=devMarie&show_icons=true&theme=radical)
